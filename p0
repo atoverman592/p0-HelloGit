@@ -1,0 +1,15 @@
+/**
+ * Author: Ashley Overman
+ * Program 0 - HelloGit
+ * CSC230-02 Spring 2016
+ Forked from UNCG-CSC230/p0-HelloGit
+ Last modified 1/18/2016
+ */
+public class HelloGit {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //changes the string "Hello World!" to "Hello Git!" and outputs the change to the console
+        System.out.println("Hello Git!");
